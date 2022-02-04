@@ -28,7 +28,7 @@
 [<img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xycsHjySzYqzXWi2dZNUGgHaHa%26pid%3DApi&f=1" />]
 [<img align="left" alt="C" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.5fFJnc5j2RZTNAHekxL2rAHaHa%26pid%3DApi&f=1" />]
 [<img align="left" alt="C++" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.UW81j8dWrpuOPbOalZaMkgHaHa%26pid%3DApi&f=1" />]
-[<img align="left" alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Su4qgmezwA4ieQxPEZYbFgHaHa%26pid%3DApi&f=1" />]
+[<img  alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Su4qgmezwA4ieQxPEZYbFgHaHa%26pid%3DApi&f=1" />]
 [<img align="left" alt="Android Studio" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ng3VSQQOqW_gUd4dkTT1mgHaHa%26pid%3DApi&f=1" />]
 [<img align="left" alt="Flask" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.tZKxFU0lwHLBBNMxk53WfAHaJh%26pid%3DApi&f=1" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
