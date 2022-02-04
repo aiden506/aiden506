@@ -42,6 +42,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aiden506)](https://git.io/streak-stats)
+
 [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden506)](https://github.com/aiden506/github-readme-stats)
 
 <!--   <img align="left" alt="aiden506's GitHub Stats" src="https://github-readme-stats.aiden506.vercel.app/api?username=aiden506&show_icons=true&hide_border=true&theme=gruvbox_light" /> -->
