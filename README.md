@@ -50,5 +50,5 @@
 <!-- [website]: https://codeSTACKr.com -->
 
 [twitter]: https://twitter.com/Aidensamuel506
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/aiden_samuel
+[linkedin]: https://linkedin.com/in/aidensamuel/
