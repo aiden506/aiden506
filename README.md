@@ -7,6 +7,7 @@
 
 - 👻 I love to play around with code
 - 🌱 I’m currently learning Machine learning
+- ☕ I spend some time in [Codewars!][codewars]!
 - 👯 I’m looking to collaborate with other Python projects
 - ✨ Fun fact: I love dogs and listening to music
 
@@ -48,7 +49,7 @@
 
 
 <!-- [website]: https://codeSTACKr.com -->
-
+[codewars]: https://www.codewars.com/users/Aidensamuel
 [twitter]: https://twitter.com/Aidensamuel506
 [instagram]: https://instagram.com/aiden_samuel
 [linkedin]: https://linkedin.com/in/aidensamuel/
