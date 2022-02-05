@@ -6,7 +6,7 @@
 ## I'm a  Student, Developer and a Code Enthusiast !!
 
 - 👻 I love to play around with code
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Data Science
 - ☕ I spend some time in [Codewars!][codewars]!
 - 👯 I’m looking to collaborate with other Python projects
 - ✨ Fun fact: I love dogs and listening to music
