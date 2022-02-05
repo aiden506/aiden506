@@ -8,7 +8,7 @@
 - 👻 I love to play around with code
 - 🌱 I’m currently learning Data Science
 - ☕ I spend some time in [Codewars!][codewars]!
-- 👯 I’m looking to collaborate with other Python projects
+- 👯 I’m looking to collaborate with other Open source projects
 - ✨ Fun fact: I love dogs and listening to music
 
 ### Connect with me:
