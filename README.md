@@ -41,7 +41,7 @@
 [![@aidensamuel's Holopin board](https://holopin.io/api/user/board?user=aidensamuel)](https://holopin.io/@aidensamuel)
 
 
-### GitHub Stats
+<!-- ### GitHub Stats
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden506&show_icons=true&theme=gruvbox_light)
 <!-- [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden506)](https://github.com/aiden506/github-readme-stats) -->
 
